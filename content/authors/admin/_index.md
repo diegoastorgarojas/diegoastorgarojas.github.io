@@ -37,5 +37,5 @@ I am an Assistant Professor of Economics at Pontificia Universidad Javeriana in 
 Feel free to contact me at astorgarl@javeriana.edu.co
 
 
-{{< icon name="download" pack="fas" >}} Download my {{% staticref "https://www.dropbox.com/s/i07mgvb1nwzurkt/cv.pdf?dl=0" %}}CV{{% /staticref %}}.
+{{< icon name="download" pack="fas" >}} Download my {{% staticref "https://www.dropbox.com/s/2x3ls5y4yqf4alu/cv.pdf?dl=0" %}}CV{{% /staticref %}}.
 
