@@ -6,7 +6,7 @@ abstract: This paper evaluates how the July 2005 London terrorist attacks affect
 authors:
 - Diego Astorga-Rojas
 #- Robert Ford
-date: "2022-07-04T00:00:00Z"
+date: "2032-06-09T00:00:00Z"
 doi: ""
 featured: false
 image:
