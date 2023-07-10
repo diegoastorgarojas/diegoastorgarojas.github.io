@@ -25,6 +25,6 @@ publishDate: "2022-07-04T00:00:00Z"
 #ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags: [Education, Terrorism] 
 title: Should I stay or should I go? The effect of London’s terrorist attack on the educational choices of Muslims
-url_pdf: "https://www.dropbox.com/s/11polsta7rsgvoq/example.pdf?dl=0"
+url_pdf: "https://link.springer.com/article/10.1007/s13209-023-00282-2"
 ---
 
