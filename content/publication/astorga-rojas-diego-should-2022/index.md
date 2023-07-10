@@ -4,8 +4,7 @@ England and use the month the survey was administered to divide individuals into
 #author_notes:
 #- Equal contribution
 #- Equal contribution
-authors:
-- Diego Astorga-Rojas
+authors: Diego Astorga-Rojas
 #- Robert Ford
 date: "2022-07-04T00:00:00Z"
 doi: ""
